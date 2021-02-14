@@ -1,0 +1,4 @@
+target
+.idea
+LoadTestingFramework.iml
+src/main/resources/jmeterRunnerLocal.properties
